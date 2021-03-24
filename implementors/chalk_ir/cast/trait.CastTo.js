@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["hir_ty"] = [{"text":"impl CastTo&lt;WhereClause&gt; for TraitRef","synthetic":false,"types":[]},{"text":"impl CastTo&lt;WhereClause&gt; for AliasEq","synthetic":false,"types":[]},{"text":"impl CastTo&lt;DomainGoal&gt; for WhereClause","synthetic":false,"types":[]},{"text":"impl CastTo&lt;DomainGoal&gt; for TraitRef","synthetic":false,"types":[]},{"text":"impl CastTo&lt;DomainGoal&gt; for AliasEq","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
